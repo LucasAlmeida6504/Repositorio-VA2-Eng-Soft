@@ -1,2 +1,5 @@
 # Repositorio-VA2-Eng-Soft
-VA2.
+
+Nome completo: LUCAS FERREIRA ALMEIDA.
+Curso: SISTEMAS.
+Semestre: 3° SEMESTRE.
